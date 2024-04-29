@@ -1,5 +1,14 @@
-# VegetableImage
-Tags: Python, TensorFlow, Neural Networks, Vegetable Image Dataset
+# Deep Vision con el Vegetable Image Dataset
+Tags: Python, TensorFlow, Deep Learning, Deep Vision, Convolutional Neural Networks (CNN), Vegetable Image Dataset
+
+
+
+
+<img src="https://github.com/vbleal/VegetableImage/blob/main/Imag/VegetableImages.png" width="500" height="300">
+
+
+
+
 
 
 <br>
