@@ -192,6 +192,7 @@ Luego, se continuaría con la Sección específica del modelo que se desea ejecu
 
 <br>
 
+[Reporte (PDF) Deep Vision in Classification Tasks](https://github.com/vbleal/VegetableImage/blob/076f4c559b81fb175be7c4b2619c2ba7ac0ccab8/_Report/GH_Deep%20Vision%20in%20Classification%20Tasks.pdf)
 
 
 
